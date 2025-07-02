@@ -116,5 +116,3 @@ Curious, Leadership, Rigorous, Meticulous, Empathic, Sociable
 Integrity, collaboration, and continuous learning. I believe in treating others with respect and working together to achieve common goals.
 
 ---
-
-> _Minimalist black & white resume, inspired by clean, professional, and modern templates. All details are organized for clarity and readability, focusing on skills, education, and certifications_[1][5][6].
