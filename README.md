@@ -116,3 +116,5 @@ Curious, Leadership, Rigorous, Meticulous, Empathic, Sociable
 Integrity, collaboration, and continuous learning. I believe in treating others with respect and working together to achieve common goals.
 
 ---
+
+
